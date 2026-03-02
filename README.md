@@ -1,3 +1,3 @@
 - _spoken languages_: German, English
 - _programming languages_: C, C++, Python
-- _some knowledge in_: Computer Graphics, Game Development, Simulations, Robotics, Machine Learning
+- _some knowledge in_: Computer Graphics, Game Development, Simulations, Robotics, GPGPU, Computer Vision
